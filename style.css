@@ -2,3 +2,33 @@ body{
   margin: 0.4;
   font-size: 25px;
   color: #e39802
+}
+#navbar{
+          overflow: hidden;
+          background: #1b3b4a;
+          box-shadow: 0px 21px 40px 32px #127050;
+}
+#navbar a{
+          margin: 0;
+          float: inline-start;
+          display: inline;
+          padding: 20px 30px;
+          text-align: center;
+          font-size: 20px;
+        }
+
+
+#navbar a:hover{
+          background-color: #c1d1a1;
+          color: black;
+        }
+
+#navbar a:link {
+      color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.home-btn {
+      background-color: lightgreen;
+}
