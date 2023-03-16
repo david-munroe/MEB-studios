@@ -11,7 +11,7 @@
 }
 #speed > ul > li > a
 {
-  color: Darkblue;
+  color: white;
   display: inline-block;
   height: 60px;
   line-height: 60px;
@@ -23,5 +23,11 @@
 #speed > ul > li > a:hover {
   color: lime;
   /* for fast nav */
+}
+@keyframes color {
+   }
+   100% {
+      background: #2d3436;
+   }
 }
 /* #e6c78e for background */
