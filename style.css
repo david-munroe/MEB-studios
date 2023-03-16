@@ -23,7 +23,7 @@
 #speed > ul > li > a:hover {
   color: lime;
   /* for fast nav */
- {
+ body {
   background-color: #e6c78e;
 }
 /* #e6c78e for background */
