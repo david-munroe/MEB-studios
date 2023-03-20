@@ -19,12 +19,12 @@
   padding: 0px 15px;
   text-decoration: none;
   transition: color 0.3s ease-in;
+  font-size: 25px;
 }
 #speed > ul > li > a:hover {
   color: lime;
   /* for fast nav */
  body {
   background-color: #e6c78e;
-  font-size: 25px
 }
 /* #e6c78e for background */
