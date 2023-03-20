@@ -34,6 +34,7 @@
 }
  body{
    background-color: #e6c78e;
+   /* change it so that the bakcground is orange which we'll keep on the sides and the middle is white. You might need to use another 'navbar' to do that */
  }
 .Title{
   text-align: center;
