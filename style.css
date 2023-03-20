@@ -23,9 +23,18 @@
 }
 #speed > ul > li > a:hover {
   color: lime;
+  border-radius: 50%;
+  background-color: #474645;
+  
 }
   /* for fast nav */
- body {
-  background-color: #e6c78e;
+.home-btn{
+  border-radius: 4px;
+  background-color: #1a1919;
 }
+ body{
+   background-color: #e6c78e;
+ }
+  
+
 /* #e6c78e for background */
