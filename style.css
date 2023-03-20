@@ -1,7 +1,7 @@
 #speed {
   /* make navbar black and home button a different color */
   background: black;
-  box-shadow: 0px 1px 10px 10px gray;
+  box-shadow: 0px 1px 10px 10px #565552;
   height: auto;
   text-align: center;
   width: 100%;
@@ -15,7 +15,7 @@
   display: inline-block;
   height: 60px;
   line-height: 60px;
-  margin: 0px;
+  margin: 3px 3px;
   padding: 0px 15px;
   text-decoration: none;
   transition: color 0.3s ease-in;
@@ -23,7 +23,7 @@
 }
 #speed > ul > li > a:hover {
   color: lime;
-  border-radius: 50%;
+  border-radius: 48%;
   background-color: #474645;
   
 }
@@ -35,6 +35,9 @@
  body{
    background-color: #e6c78e;
  }
-  
+.Title{
+  text-align: center;
+  font-size: 40px;
+}
 
 /* #e6c78e for background */
